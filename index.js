@@ -60,7 +60,7 @@ app.use('', home);
 app.use('/api/genres', genres);
 
 if (app.get('env') === 'development') {
-  app.use(morgan('tiny')); // logging to terminal
+  app.use(morgan('tiny')); // logging http requests to terminal
   debug('morgan is enabled');
 }
 
