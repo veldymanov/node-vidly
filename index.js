@@ -6,6 +6,7 @@ const helmet = require('helmet');
 const mongoose = require('mongoose');
 const morgan = require('morgan');
 
+const customers = require('./routes/customers');
 const genres = require('./routes/genres');
 const home = require('./routes/home');
 
@@ -36,6 +37,7 @@ if (app.get('env') === 'development') {
 }
 
 app.use('', home);
+app.use('/api/customers', customers);
 app.use('/api/genres', genres);
 
 

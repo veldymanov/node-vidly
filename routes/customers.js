@@ -1,19 +1,19 @@
 const express = require('express');
-const { Genre, validate } = require('../models/genre');
+const { Customer, validate } = require('../models/customer');
 
 const router = express.Router();
 
 router.get('', async (req, res) => {
-  const genres = await getGenres({});
-  res.send(genres);
+  const customers = await Customer.find().sort('name');
+  res.send(customers);
 });
 
 router.get('/:id', async (req, res) => {
-  const genre = await getGenres({ _id: req.params.id });
+  const customer = await getCustomers({ _id: req.params.id });
 
-  genre
-    ? res.send(genre)
-    : res.status(404).send('genre does not exists');
+  customer
+    ? res.send(customer)
+    : res.status(404).send('customer does not exists');
 });
 
 router.post('', async (req, res) => {
@@ -24,10 +24,10 @@ router.post('', async (req, res) => {
   }
 
   try {
-    let genre = new Genre(req.body);
-    genre = await genre.save();
+    let customer = new Customer(req.body);
+    customer = await customer.save();
 
-    res.send(genre);
+    res.send(customer);
   }
   catch (ex) {
     const errArr = [];
@@ -47,52 +47,43 @@ router.put('/:id', async (req, res) => {
     return res.status(400).send(error.details[0].message);
   }
 
-  const genre = await Genre.findByIdAndUpdate(
+  const customer = await Customer.findByIdAndUpdate(
     { _id: req.params.id },
     { $set: req.body },
     { new: true }, // getting updated object from DB
   );
 
-  if (!genre) {
+  if (!customer) {
     return res.status(404).send('genre does not exists');
   }
 
-  res.send(genre);
+  res.send(customer);
 });
 
 router.delete('/:id', async (req, res) => {
   // CourseDeleteOne, Genre.deleteMany
-  const genre = await Genre.findByIdAndRemove(req.params.id);
+  const customer = await Customer.findByIdAndRemove(req.params.id);
 
-  if (!genre) {
+  if (!customer) {
     return res.status(404).send('genre does not exists');
   }
 
-  res.send(genre);
+  res.send(customer);
 });
 
-async function getGenres(
+async function getCustomers(
   filterObj={
-    author: /.*Andrii.*/i, // /^Andrii/i, /Veldymanov$/i
-    isPublished: true,
-    tags: 'new',
-    category: 'novel',
-    // price: {$gte: 10, $lte: 20},
-    // price: {$in: [10, 15, 20]},
+    // isGold: true,
   },
-  selectProp={}, // {name: 1, author: 1, price: 1} or 'name author price'
-  sortBy={}, //{price: -1}  or '-price'
+  selectProp={},
+  sortBy={}, //{name: -1}  or '-name'
   pagination,
 ) {
   const pageNumber = pagination ? pagination.pageNumber : 1;
   const pageSize = pagination ? pagination.pageSize : 100;
 
-  return await Genre
+  return await Customer
     .find(filterObj)
-    // .or([
-    //   {price: {$gte: 15}},
-    //   {name: /.*by*./i}
-    // ])
     .skip((pageNumber - 1) * pageSize)
     .limit(pageSize)
     .sort(sortBy)

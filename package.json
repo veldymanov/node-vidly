@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "set DEBUG=app:startup & nodemon index",
+    "start": "set DEBUG=app:startup & nodemon --inspect=0.0.0.0:9229 index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
