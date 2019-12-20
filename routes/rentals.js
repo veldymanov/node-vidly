@@ -1,4 +1,4 @@
-const express = require('express');
+const router = require('express').Router();
 const Fawn = require('fawn');
 const mongoose = require('mongoose');
 
@@ -6,7 +6,6 @@ const { Rental, validate } = require('../models/rental');
 const { Customer } = require('../models/customer');
 const { Movie } = require('../models/movie');
 
-const router = express.Router();
 Fawn.init(mongoose);
 
 router.get('/', async (req, res) => {
@@ -58,9 +57,6 @@ router.post('/', async (req, res) => {
     } catch (ex) {
       res.status(500).send('Transaction failed');
     }
-
-
-
   }
   catch (ex) {
     const errArr = [];
