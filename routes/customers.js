@@ -24,9 +24,8 @@ router.post('', async (req, res) => {
   }
 
   try {
-    let customer = new Customer(req.body);
-    customer = await customer.save();
-
+    const customer = new Customer(req.body);
+    await customer.save();
     res.send(customer);
   }
   catch (ex) {

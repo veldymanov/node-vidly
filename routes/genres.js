@@ -24,9 +24,8 @@ router.post('', async (req, res) => {
   }
 
   try {
-    let genre = new Genre(req.body);
-    genre = await genre.save();
-
+    const genre = new Genre(req.body);
+    await genre.save();
     res.send(genre);
   }
   catch (ex) {

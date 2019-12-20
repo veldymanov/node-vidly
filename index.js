@@ -5,10 +5,14 @@ const express = require('express');
 const helmet = require('helmet');
 const mongoose = require('mongoose');
 const morgan = require('morgan');
+const Joi = require('joi');
+Joi.objectId = require('joi-objectid')(Joi);
 
 const customers = require('./routes/customers');
 const genres = require('./routes/genres');
 const home = require('./routes/home');
+const movies = require('./routes/movies');
+const rentals = require('./routes/rentals');
 
 const logger = require('./middlewares/logger');
 
@@ -39,6 +43,8 @@ if (app.get('env') === 'development') {
 app.use('', home);
 app.use('/api/customers', customers);
 app.use('/api/genres', genres);
+app.use('/api/movies', movies);
+app.use('/api/rentals', rentals);
 
 
 // export PORT=5000
