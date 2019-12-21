@@ -16,13 +16,16 @@ const movies = require('./routes/movies');
 const rentals = require('./routes/rentals');
 const users = require('./routes/users');
 
-const logger = require('./middlewares/logger');
-
 const app = express();
 
 if (!config.get('jwtSecret')) {
   console.error('FATAL ERROR: jwtSecret is not defined');
   process.exit(1);
+}
+
+if (app.get('env') === 'development') {
+  app.use(morgan('tiny')); // logging http requests to terminal
+  debug('morgan is enabled');
 }
 
 mongoose.connect('mongodb://localhost:27017/vidly', {
@@ -37,14 +40,8 @@ app.set('view engine', 'pug');
 app.set('views', './views'); // default
 
 app.use(express.json());
-app.use(express.urlencoded({extended: true})); // form request: key1=value1&key2=value2
 app.use(express.static('public'));
 app.use(helmet());
-
-if (app.get('env') === 'development') {
-  app.use(morgan('tiny')); // logging http requests to terminal
-  debug('morgan is enabled');
-}
 
 app.use('', home);
 app.use('/api/auth', auth);

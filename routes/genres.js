@@ -1,7 +1,10 @@
 const router = require('express').Router();
+
+const admin = require('../middlewares/admin');
+const auth = require('../middlewares/auth');
 const { Genre, validate } = require('../models/genre');
 
-router.get('', async (req, res) => {
+router.get('/', async (req, res) => {
   const genres = await getGenres({});
   res.send(genres);
 });
@@ -14,7 +17,7 @@ router.get('/:id', async (req, res) => {
     : res.status(404).send('genre does not exists');
 });
 
-router.post('', async (req, res) => {
+router.post('/', auth, async (req, res) => {
   const { error } = validate(req.body);
 
   if (error) {
@@ -57,7 +60,7 @@ router.put('/:id', async (req, res) => {
   res.send(genre);
 });
 
-router.delete('/:id', async (req, res) => {
+router.delete('/:id', [auth, admin], async (req, res) => {
   // CourseDeleteOne, Genre.deleteMany
   const genre = await Genre.findByIdAndRemove(req.params.id);
 
