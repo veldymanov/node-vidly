@@ -4,7 +4,9 @@ const admin = require('../middlewares/admin');
 const auth = require('../middlewares/auth');
 const { Genre, validate } = require('../models/genre');
 
-router.get('/', async (req, res) => {
+router.get('/', async (req, res, next) => {
+  throw new Error('Logger try');
+
   const genres = await getGenres({});
   res.send(genres);
 });
@@ -81,7 +83,7 @@ async function getGenres(
     // price: {$in: [10, 15, 20]},
   },
   selectProp={}, // {name: 1, author: 1, price: 1} or 'name author price'
-  sortBy={}, //{price: -1}  or '-price'
+  sortBy={name: 1}, // {price: -1}  or '-price'
   pagination,
 ) {
   const pageNumber = pagination ? pagination.pageNumber : 1;

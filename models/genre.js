@@ -1,7 +1,13 @@
 const mongoose = require('mongoose');
 const Joi = require('joi');
 
-const genreCategories = [ 'action', 'comedy', 'fantasy', 'melodrama' ];
+const genreCategories = [
+  'action',
+  'comedy',
+  'fantasy',
+  'horror',
+  'melodrama'
+];
 
 const genreSchema = new mongoose.Schema({
   name: {
