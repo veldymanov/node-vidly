@@ -5,7 +5,7 @@ const auth = require('../middlewares/auth');
 const { Genre, validate } = require('../models/genre');
 
 router.get('/', async (req, res, next) => {
-  throw new Error('Logger try');
+  // throw new Error('Logger try');
 
   const genres = await getGenres({});
   res.send(genres);
