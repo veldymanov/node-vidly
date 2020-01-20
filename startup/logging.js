@@ -34,8 +34,6 @@ const logger = createLogger({
   ),
   defaultMeta: { service: 'user-service' },
   transports: [
-    // - Write all logs with level `error` and below to `error.log`
-    // - Write all logs with level `info` and below to `combined.log`
     new transports.File({ filename: 'error.log', level: 'error' }),
     new transports.MongoDB({ db: 'mongodb://localhost:27017/vidly', level: 'error', metaKey: 'stack' }),
     new transports.File({ filename: 'combined.log' }),
