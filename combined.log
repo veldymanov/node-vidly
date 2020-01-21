@@ -101,3 +101,4 @@ info: connected to MongoDB...
 {"message":"Listenning on port 3000...","level":"info","service":"user-service"}
 {"message":"connected to MongoDB...","level":"info","service":"user-service"}
 {"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"connected to MongoDB...","level":"info","service":"user-service"}
