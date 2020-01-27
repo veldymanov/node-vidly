@@ -22,4 +22,6 @@ app.set('views', './views'); // default
 
 // export PORT=5000
 const port = process.env.PORT || 3000;
-app.listen(port, () => logger.info(`Listenning on port ${port}...`));
+const server = app.listen(port, () => logger.info(`Listenning on port ${port}...`));
+
+module.exports = server;

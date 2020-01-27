@@ -2,6 +2,7 @@ const router = require('express').Router();
 
 const admin = require('../middlewares/admin');
 const auth = require('../middlewares/auth');
+const validateObjectId = require('../middlewares/validateObjectId');
 const { Genre, validate } = require('../models/genre');
 
 router.get('/', async (req, res, next) => {
@@ -11,8 +12,10 @@ router.get('/', async (req, res, next) => {
   res.send(genres);
 });
 
-router.get('/:id', async (req, res) => {
-  const genre = await getGenres({ _id: req.params.id });
+router.get('/:id', validateObjectId, async (req, res) => {
+  const genre = await Genre.findById(req.params.id);
+
+  console.log('genre ', genre);
 
   genre
     ? res.send(genre)
@@ -22,27 +25,15 @@ router.get('/:id', async (req, res) => {
 router.post('/', auth, async (req, res) => {
   const { error } = validate(req.body);
 
-  if (error) {
-    return res.status(400).send(error.details[0].message);
-  }
+  if (error) return res.status(400).send(error.details[0].message);
 
-  try {
-    const genre = new Genre(req.body);
-    await genre.save();
-    res.send(genre);
-  }
-  catch (ex) {
-    const errArr = [];
+  let genre = new Genre(req.body);
+  genre = await genre.save();
 
-    for (field in ex.errors) {
-      errArr.push(ex.errors[field].message);
-    };
-
-    res.status(400).send(errArr);
-  }
+  res.send(genre);
 });
 
-router.put('/:id', async (req, res) => {
+router.put('/:id', validateObjectId, async (req, res) => {
   const { error } = validate(req.body);
 
   if (error) {
@@ -62,7 +53,7 @@ router.put('/:id', async (req, res) => {
   res.send(genre);
 });
 
-router.delete('/:id', [auth, admin], async (req, res) => {
+router.delete('/:id', [auth, admin, validateObjectId], async (req, res) => {
   // CourseDeleteOne, Genre.deleteMany
   const genre = await Genre.findByIdAndRemove(req.params.id);
 

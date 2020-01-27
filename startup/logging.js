@@ -1,3 +1,4 @@
+const config = require('config');
 const { createLogger, format, transports } = require('winston');
 const { colorize, combine, json, timestamp, label, prettyPrint, simple, printf } = format;
 require('winston-mongodb');
@@ -35,8 +36,15 @@ const logger = createLogger({
   defaultMeta: { service: 'user-service' },
   transports: [
     new transports.File({ filename: 'error.log', level: 'error' }),
-    new transports.MongoDB({ db: 'mongodb://localhost:27017/vidly', level: 'error', metaKey: 'stack' }),
+    new transports.MongoDB({ db: config.get('db'), level: 'error', metaKey: 'stack' }),
     new transports.File({ filename: 'combined.log' }),
+    new transports.Console({
+      format: combine(
+        messageFormat(),
+        colorize(),
+        consoleFormat
+      )
+    }),
   ],
   exceptionHandlers: [
     new transports.Console({
