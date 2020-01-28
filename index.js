@@ -3,14 +3,21 @@
 const debug = require('debug')('app:startup');
 const express = require('express');
 const morgan = require('morgan');
+
+const db = require('./startup/db');
 const { logger } = require('./startup/logging');
 
 const app = express();
 
+db();
 require('./startup/routes')(app);
-require('./startup/db')();
 require('./startup/config')();
 require('./startup/validation')();
+
+if (app.get('env') === 'production') {
+  console.log('production');
+  require('./startup/prod')(app);
+}
 
 if (app.get('env') === 'development') { // env = process.env.NODE_ENV || 'development';
   app.use(morgan('tiny')); // logging http requests to terminal

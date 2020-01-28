@@ -4,14 +4,19 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "cross-env DEBUG=app:startup nodemon --inspect=0.0.0.0:9229 index",
-    "test": "cross-env NODE_ENV=test jest --testTimeout=10000 --detectOpenHandles --watchAll --verbose --coverage"
+    "start": "cross-env NODE_ENV=production node index.js",
+    "dev": "cross-env DEBUG=app:startup nodemon --inspect=0.0.0.0:9229 index",
+    "test": "cross-env NODE_ENV=test jest --detectOpenHandles --watchAll --verbose --coverage"
+  },
+  "engines": {
+    "node": "10.7.0"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^3.0.7",
+    "compression": "^1.7.4",
     "config": "^3.2.4",
     "cross-env": "^6.0.3",
     "debug": "^4.1.1",
@@ -24,6 +29,7 @@
     "joi-password-complexity": "^3.1.0",
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.15",
+    "moment": "^2.24.0",
     "mongoose": "^5.7.11",
     "morgan": "^1.9.1",
     "pug": "^2.0.4",

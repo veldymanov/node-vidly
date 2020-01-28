@@ -1,5 +1,7 @@
 const router = require('express').Router();
-const { Customer, validate } = require('../models/customer');
+
+const { Customer, validator } = require('../models/customer');
+const validate = require('../middlewares/validate');
 
 router.get('', async (req, res) => {
   const customers = await Customer.find().sort('name');
@@ -14,13 +16,7 @@ router.get('/:id', async (req, res) => {
     : res.status(404).send('customer does not exists');
 });
 
-router.post('', async (req, res) => {
-  const { error } = validate(req.body);
-
-  if (error) {
-    return res.status(400).send(error.details[0].message);
-  }
-
+router.post('', validate(validator), async (req, res) => {
   try {
     const customer = new Customer(req.body);
     await customer.save();
@@ -37,13 +33,7 @@ router.post('', async (req, res) => {
   }
 });
 
-router.put('/:id', async (req, res) => {
-  const { error } = validate(req.body);
-
-  if (error) {
-    return res.status(400).send(error.details[0].message);
-  }
-
+router.put('/:id', validate(validator), async (req, res) => {
   const customer = await Customer.findByIdAndUpdate(
     { _id: req.params.id },
     { $set: req.body },

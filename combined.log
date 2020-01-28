@@ -536,3 +536,934 @@ info: connected to MongoDB...
 {"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
 {"message":"Listenning on port 3000...","level":"info","service":"user-service"}
 {"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"service":"user-service","level":"error","message":"Cannot set headers after they are sent to the clientCannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:470:11)\n    at ServerResponse.header (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\response.js:771:10)\n    at ServerResponse.send (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\response.js:170:12)\n    at Object.<anonymous>.router.post (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\routes\\returns.js:19:31)\n    at process._tickCallback (internal/process/next_tick.js:68:7)"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"service":"user-service","level":"error","message":"Cannot set headers after they are sent to the clientCannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:470:11)\n    at ServerResponse.header (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\response.js:771:10)\n    at ServerResponse.send (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\response.js:170:12)\n    at Object.<anonymous>.router.post (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\routes\\returns.js:19:31)\n    at process._tickCallback (internal/process/next_tick.js:68:7)"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"service":"user-service","level":"error","message":"Cannot set headers after they are sent to the clientCannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:470:11)\n    at ServerResponse.header (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\response.js:771:10)\n    at ServerResponse.send (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\response.js:170:12)\n    at Object.<anonymous>.router.post (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\routes\\returns.js:19:31)\n    at process._tickCallback (internal/process/next_tick.js:68:7)"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"service":"user-service","level":"error","message":"Cannot set headers after they are sent to the clientCannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:470:11)\n    at ServerResponse.header (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\response.js:771:10)\n    at ServerResponse.send (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\response.js:170:12)\n    at Object.<anonymous>.router.post (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\routes\\returns.js:19:31)\n    at process._tickCallback (internal/process/next_tick.js:68:7)"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"service":"user-service","level":"error","message":"Cannot set headers after they are sent to the clientCannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:470:11)\n    at ServerResponse.header (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\response.js:771:10)\n    at ServerResponse.send (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\response.js:170:12)\n    at Object.<anonymous>.router.post (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\routes\\returns.js:19:31)\n    at process._tickCallback (internal/process/next_tick.js:68:7)"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"service":"user-service","level":"error","message":"Cannot set headers after they are sent to the clientCannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:470:11)\n    at ServerResponse.header (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\response.js:771:10)\n    at ServerResponse.send (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\response.js:170:12)\n    at Object.<anonymous>.router.post (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\routes\\returns.js:19:31)\n    at process._tickCallback (internal/process/next_tick.js:68:7)"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"service":"user-service","level":"error","message":"Cannot set headers after they are sent to the clientCannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:470:11)\n    at ServerResponse.header (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\response.js:771:10)\n    at ServerResponse.send (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\response.js:170:12)\n    at Object.<anonymous>.router.post (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\routes\\returns.js:19:31)\n    at process._tickCallback (internal/process/next_tick.js:68:7)"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"service":"user-service","level":"error","message":"Cannot set headers after they are sent to the clientCannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:470:11)\n    at ServerResponse.header (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\response.js:771:10)\n    at ServerResponse.send (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\response.js:170:12)\n    at Object.<anonymous>.router.post (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\routes\\returns.js:19:31)\n    at process._tickCallback (internal/process/next_tick.js:68:7)"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"service":"user-service","level":"error","message":"Cannot set headers after they are sent to the clientCannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:470:11)\n    at ServerResponse.header (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\response.js:771:10)\n    at ServerResponse.send (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\response.js:170:12)\n    at Object.<anonymous>.router.post (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\routes\\returns.js:19:31)\n    at process._tickCallback (internal/process/next_tick.js:68:7)"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"service":"user-service","level":"error","message":"Cannot set headers after they are sent to the clientCannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:470:11)\n    at ServerResponse.header (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\response.js:771:10)\n    at ServerResponse.send (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\response.js:170:12)\n    at Object.<anonymous>.router.post (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\routes\\returns.js:19:31)\n    at process._tickCallback (internal/process/next_tick.js:68:7)"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"service":"user-service","level":"error","message":"Cannot set headers after they are sent to the clientCannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:470:11)\n    at ServerResponse.header (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\response.js:771:10)\n    at ServerResponse.send (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\response.js:170:12)\n    at Object.<anonymous>.router.post (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\routes\\returns.js:19:31)\n    at process._tickCallback (internal/process/next_tick.js:68:7)"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"service":"user-service","level":"error","message":"customer is not definedcustomer is not defined","stack":"ReferenceError: customer is not defined\n    at Object.<anonymous>.router.post (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\routes\\returns.js:14:12)\n    at newFn (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Object.<anonymous>.module.exports (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\middlewares\\admin.js:5:3)\n    at newFn (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Object.<anonymous>.module.exports (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\middlewares\\auth.js:12:5)\n    at newFn (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"service":"user-service","level":"error","message":"customer is not definedcustomer is not defined","stack":"ReferenceError: customer is not defined\n    at Object.<anonymous>.router.post (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\routes\\returns.js:14:12)\n    at newFn (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Object.<anonymous>.module.exports (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\middlewares\\admin.js:5:3)\n    at newFn (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Object.<anonymous>.module.exports (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\middlewares\\auth.js:12:5)\n    at newFn (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"service":"user-service","level":"error","message":"customer is not definedcustomer is not defined","stack":"ReferenceError: customer is not defined\n    at Object.<anonymous>.router.post (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\routes\\returns.js:14:12)\n    at newFn (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Object.<anonymous>.module.exports (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\middlewares\\admin.js:5:3)\n    at newFn (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Object.<anonymous>.module.exports (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\middlewares\\auth.js:12:5)\n    at newFn (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"service":"user-service","level":"error","message":"customer is not definedcustomer is not defined","stack":"ReferenceError: customer is not defined\n    at Object.<anonymous>.router.post (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\routes\\returns.js:16:12)\n    at newFn (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Object.<anonymous>.module.exports (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\middlewares\\admin.js:5:3)\n    at newFn (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Object.<anonymous>.module.exports (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\middlewares\\auth.js:12:5)\n    at newFn (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"service":"user-service","errors":{"rentalFee":{"message":"Cast to Number failed for value \"NaN\" at path \"rentalFee\"","name":"CastError","stringValue":"\"NaN\"","kind":"Number","value":null,"path":"rentalFee","reason":{"message":"Cast to number failed for value \"NaN\" at path \"rentalFee\"","name":"CastError","stringValue":"\"NaN\"","kind":"number","value":null,"path":"rentalFee"}}},"_message":"Rental validation failed","message":"Rental validation failed: rentalFee: Cast to Number failed for value \"NaN\" at path \"rentalFee\"Rental validation failed: rentalFee: Cast to Number failed for value \"NaN\" at path \"rentalFee\"","name":"ValidationError","level":"error","stack":"ValidationError: Rental validation failed: rentalFee: Cast to Number failed for value \"NaN\" at path \"rentalFee\"\n    at new ValidationError (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\error\\validation.js:31:11)\n    at model.Object.<anonymous>.Document.invalidate (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\document.js:2413:32)\n    at model.$set (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\document.js:1194:12)\n    at model.set [as rentalFee] (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\helpers\\document\\compile.js:148:26)\n    at Object.<anonymous>.router.post (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\routes\\returns.js:22:3)"}
+{"service":"user-service","errors":{"rentalFee":{"message":"Cast to Number failed for value \"NaN\" at path \"rentalFee\"","name":"CastError","stringValue":"\"NaN\"","kind":"Number","value":null,"path":"rentalFee","reason":{"message":"Cast to number failed for value \"NaN\" at path \"rentalFee\"","name":"CastError","stringValue":"\"NaN\"","kind":"number","value":null,"path":"rentalFee"}}},"_message":"Rental validation failed","message":"Rental validation failed: rentalFee: Cast to Number failed for value \"NaN\" at path \"rentalFee\"Rental validation failed: rentalFee: Cast to Number failed for value \"NaN\" at path \"rentalFee\"","name":"ValidationError","level":"error","stack":"ValidationError: Rental validation failed: rentalFee: Cast to Number failed for value \"NaN\" at path \"rentalFee\"\n    at new ValidationError (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\error\\validation.js:31:11)\n    at model.Object.<anonymous>.Document.invalidate (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\document.js:2413:32)\n    at model.$set (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\document.js:1194:12)\n    at model.set [as rentalFee] (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\helpers\\document\\compile.js:148:26)\n    at Object.<anonymous>.router.post (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\routes\\returns.js:22:3)"}
+{"service":"user-service","errors":{"rentalFee":{"message":"Cast to Number failed for value \"NaN\" at path \"rentalFee\"","name":"CastError","stringValue":"\"NaN\"","kind":"Number","value":null,"path":"rentalFee","reason":{"message":"Cast to number failed for value \"NaN\" at path \"rentalFee\"","name":"CastError","stringValue":"\"NaN\"","kind":"number","value":null,"path":"rentalFee"}}},"_message":"Rental validation failed","message":"Rental validation failed: rentalFee: Cast to Number failed for value \"NaN\" at path \"rentalFee\"Rental validation failed: rentalFee: Cast to Number failed for value \"NaN\" at path \"rentalFee\"","name":"ValidationError","level":"error","stack":"ValidationError: Rental validation failed: rentalFee: Cast to Number failed for value \"NaN\" at path \"rentalFee\"\n    at new ValidationError (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\error\\validation.js:31:11)\n    at model.Object.<anonymous>.Document.invalidate (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\document.js:2413:32)\n    at model.$set (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\document.js:1194:12)\n    at model.set [as rentalFee] (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\helpers\\document\\compile.js:148:26)\n    at Object.<anonymous>.router.post (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\routes\\returns.js:22:3)"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"service":"user-service","errors":{"rentalFee":{"message":"Cast to Number failed for value \"NaN\" at path \"rentalFee\"","name":"CastError","stringValue":"\"NaN\"","kind":"Number","value":null,"path":"rentalFee","reason":{"message":"Cast to number failed for value \"NaN\" at path \"rentalFee\"","name":"CastError","stringValue":"\"NaN\"","kind":"number","value":null,"path":"rentalFee"}}},"_message":"Rental validation failed","message":"Rental validation failed: rentalFee: Cast to Number failed for value \"NaN\" at path \"rentalFee\"Rental validation failed: rentalFee: Cast to Number failed for value \"NaN\" at path \"rentalFee\"","name":"ValidationError","level":"error","stack":"ValidationError: Rental validation failed: rentalFee: Cast to Number failed for value \"NaN\" at path \"rentalFee\"\n    at new ValidationError (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\error\\validation.js:31:11)\n    at model.Object.<anonymous>.Document.invalidate (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\document.js:2413:32)\n    at model.$set (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\document.js:1194:12)\n    at model.set [as rentalFee] (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\helpers\\document\\compile.js:148:26)\n    at Object.<anonymous>.router.post (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\routes\\returns.js:22:3)"}
+{"service":"user-service","errors":{"rentalFee":{"message":"Cast to Number failed for value \"NaN\" at path \"rentalFee\"","name":"CastError","stringValue":"\"NaN\"","kind":"Number","value":null,"path":"rentalFee","reason":{"message":"Cast to number failed for value \"NaN\" at path \"rentalFee\"","name":"CastError","stringValue":"\"NaN\"","kind":"number","value":null,"path":"rentalFee"}}},"_message":"Rental validation failed","message":"Rental validation failed: rentalFee: Cast to Number failed for value \"NaN\" at path \"rentalFee\"Rental validation failed: rentalFee: Cast to Number failed for value \"NaN\" at path \"rentalFee\"","name":"ValidationError","level":"error","stack":"ValidationError: Rental validation failed: rentalFee: Cast to Number failed for value \"NaN\" at path \"rentalFee\"\n    at new ValidationError (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\error\\validation.js:31:11)\n    at model.Object.<anonymous>.Document.invalidate (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\document.js:2413:32)\n    at model.$set (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\document.js:1194:12)\n    at model.set [as rentalFee] (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\helpers\\document\\compile.js:148:26)\n    at Object.<anonymous>.router.post (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\routes\\returns.js:22:3)"}
+{"service":"user-service","errors":{"rentalFee":{"message":"Cast to Number failed for value \"NaN\" at path \"rentalFee\"","name":"CastError","stringValue":"\"NaN\"","kind":"Number","value":null,"path":"rentalFee","reason":{"message":"Cast to number failed for value \"NaN\" at path \"rentalFee\"","name":"CastError","stringValue":"\"NaN\"","kind":"number","value":null,"path":"rentalFee"}}},"_message":"Rental validation failed","message":"Rental validation failed: rentalFee: Cast to Number failed for value \"NaN\" at path \"rentalFee\"Rental validation failed: rentalFee: Cast to Number failed for value \"NaN\" at path \"rentalFee\"","name":"ValidationError","level":"error","stack":"ValidationError: Rental validation failed: rentalFee: Cast to Number failed for value \"NaN\" at path \"rentalFee\"\n    at new ValidationError (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\error\\validation.js:31:11)\n    at model.Object.<anonymous>.Document.invalidate (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\document.js:2413:32)\n    at model.$set (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\document.js:1194:12)\n    at model.set [as rentalFee] (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\helpers\\document\\compile.js:148:26)\n    at Object.<anonymous>.router.post (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\routes\\returns.js:22:3)"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"service":"user-service","errors":{"rentalFee":{"message":"Cast to Number failed for value \"NaN\" at path \"rentalFee\"","name":"CastError","stringValue":"\"NaN\"","kind":"Number","value":null,"path":"rentalFee","reason":{"message":"Cast to number failed for value \"NaN\" at path \"rentalFee\"","name":"CastError","stringValue":"\"NaN\"","kind":"number","value":null,"path":"rentalFee"}}},"_message":"Rental validation failed","message":"Rental validation failed: rentalFee: Cast to Number failed for value \"NaN\" at path \"rentalFee\"Rental validation failed: rentalFee: Cast to Number failed for value \"NaN\" at path \"rentalFee\"","name":"ValidationError","level":"error","stack":"ValidationError: Rental validation failed: rentalFee: Cast to Number failed for value \"NaN\" at path \"rentalFee\"\n    at new ValidationError (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\error\\validation.js:31:11)\n    at model.Object.<anonymous>.Document.invalidate (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\document.js:2413:32)\n    at model.$set (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\document.js:1194:12)\n    at model.set [as rentalFee] (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\helpers\\document\\compile.js:148:26)\n    at Object.<anonymous>.router.post (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\routes\\returns.js:22:3)"}
+{"service":"user-service","errors":{"rentalFee":{"message":"Cast to Number failed for value \"NaN\" at path \"rentalFee\"","name":"CastError","stringValue":"\"NaN\"","kind":"Number","value":null,"path":"rentalFee","reason":{"message":"Cast to number failed for value \"NaN\" at path \"rentalFee\"","name":"CastError","stringValue":"\"NaN\"","kind":"number","value":null,"path":"rentalFee"}}},"_message":"Rental validation failed","message":"Rental validation failed: rentalFee: Cast to Number failed for value \"NaN\" at path \"rentalFee\"Rental validation failed: rentalFee: Cast to Number failed for value \"NaN\" at path \"rentalFee\"","name":"ValidationError","level":"error","stack":"ValidationError: Rental validation failed: rentalFee: Cast to Number failed for value \"NaN\" at path \"rentalFee\"\n    at new ValidationError (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\error\\validation.js:31:11)\n    at model.Object.<anonymous>.Document.invalidate (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\document.js:2413:32)\n    at model.$set (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\document.js:1194:12)\n    at model.set [as rentalFee] (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\helpers\\document\\compile.js:148:26)\n    at Object.<anonymous>.router.post (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\routes\\returns.js:22:3)"}
+{"service":"user-service","errors":{"rentalFee":{"message":"Cast to Number failed for value \"NaN\" at path \"rentalFee\"","name":"CastError","stringValue":"\"NaN\"","kind":"Number","value":null,"path":"rentalFee","reason":{"message":"Cast to number failed for value \"NaN\" at path \"rentalFee\"","name":"CastError","stringValue":"\"NaN\"","kind":"number","value":null,"path":"rentalFee"}}},"_message":"Rental validation failed","message":"Rental validation failed: rentalFee: Cast to Number failed for value \"NaN\" at path \"rentalFee\"Rental validation failed: rentalFee: Cast to Number failed for value \"NaN\" at path \"rentalFee\"","name":"ValidationError","level":"error","stack":"ValidationError: Rental validation failed: rentalFee: Cast to Number failed for value \"NaN\" at path \"rentalFee\"\n    at new ValidationError (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\error\\validation.js:31:11)\n    at model.Object.<anonymous>.Document.invalidate (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\document.js:2413:32)\n    at model.$set (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\document.js:1194:12)\n    at model.set [as rentalFee] (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\mongoose\\lib\\helpers\\document\\compile.js:148:26)\n    at Object.<anonymous>.router.post (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\routes\\returns.js:22:3)"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"service":"user-service","expose":true,"statusCode":400,"status":400,"body":"{\n\t\"email\": \"vel1@gmail.com\",\n\n}","type":"entity.parse.failed","level":"error","message":"Unexpected token } in JSON at position 31Unexpected token } in JSON at position 31","stack":"SyntaxError: Unexpected token } in JSON at position 31\n    at JSON.parse (<anonymous>)\n    at parse (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\body-parser\\lib\\types\\json.js:89:19)\n    at C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\body-parser\\lib\\read.js:121:18\n    at invokeCallback (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\raw-body\\index.js:224:16)\n    at done (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\raw-body\\index.js:213:7)\n    at IncomingMessage.onEnd (C:\\Users\\aveld\\Documents\\study_projects\\node-vidly\\node_modules\\raw-body\\index.js:273:7)\n    at IncomingMessage.emit (events.js:203:15)\n    at endReadableNT (_stream_readable.js:1143:12)\n    at process._tickCallback (internal/process/next_tick.js:63:19)"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly_tests...","level":"info","service":"user-service"}
+{"message":"Listenning on port 3000...","level":"info","service":"user-service"}
+{"message":"Connected to mongodb://localhost:27017/vidly...","level":"info","service":"user-service"}

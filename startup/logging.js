@@ -38,13 +38,6 @@ const logger = createLogger({
     new transports.File({ filename: 'error.log', level: 'error' }),
     new transports.MongoDB({ db: config.get('db'), level: 'error', metaKey: 'stack' }),
     new transports.File({ filename: 'combined.log' }),
-    new transports.Console({
-      format: combine(
-        messageFormat(),
-        colorize(),
-        consoleFormat
-      )
-    }),
   ],
   exceptionHandlers: [
     new transports.Console({
@@ -72,4 +65,3 @@ if (process.env.NODE_ENV !== 'production') {
 }
 
 exports.logger = logger;
-

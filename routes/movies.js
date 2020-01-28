@@ -1,6 +1,8 @@
 const router = require('express').Router();
-const { Movie, validate } = require('../models/movie');
+
+const { Movie, validator } = require('../models/movie');
 const { Genre } = require('../models/genre');
+const validate = require('../middlewares/validate');
 
 router.get('', async (req, res) => {
   const movies = await getMovies({}, {}, {title: -1});
@@ -15,11 +17,7 @@ router.get('/:id', async (req, res) => {
     : res.status(404).send('movie does not exists');
 });
 
-router.post('', async (req, res) => {
-  const { error } = validate(req.body);
-
-  if (error) return res.status(400).send(error.details[0].message);
-
+router.post('', validate(validator), async (req, res) => {
   const genre = await Genre.findById(req.body.genreId);
   if (!genre) res.status(400).send('Invalid genre.');
 
@@ -51,13 +49,7 @@ router.post('', async (req, res) => {
   }
 });
 
-router.put('/:id', async (req, res) => {
-  const { error } = validate(req.body);
-
-  if (error) {
-    return res.status(400).send(error.details[0].message);
-  }
-
+router.put('/:id', validate(validator), async (req, res) => {
   const movie = await Movie.findByIdAndUpdate(
     { _id: req.params.id },
     { $set: req.body },

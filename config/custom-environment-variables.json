@@ -1,3 +1,4 @@
 {
-  "jwtSecret": "vidly_jwtSecret"
+  "jwtSecret": "vidly_jwtSecret",
+  "db": "vidly_db"
 }

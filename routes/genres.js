@@ -2,8 +2,9 @@ const router = require('express').Router();
 
 const admin = require('../middlewares/admin');
 const auth = require('../middlewares/auth');
-const validateObjectId = require('../middlewares/validateObjectId');
-const { Genre, validate } = require('../models/genre');
+const validate = require('../middlewares/validate');
+const validateObjectId = require('../middlewares/validate-object-id');
+const { Genre, validator } = require('../models/genre');
 
 router.get('/', async (req, res, next) => {
   // throw new Error('Logger try');
@@ -15,31 +16,19 @@ router.get('/', async (req, res, next) => {
 router.get('/:id', validateObjectId, async (req, res) => {
   const genre = await Genre.findById(req.params.id);
 
-  console.log('genre ', genre);
-
   genre
     ? res.send(genre)
     : res.status(404).send('genre does not exists');
 });
 
-router.post('/', auth, async (req, res) => {
-  const { error } = validate(req.body);
-
-  if (error) return res.status(400).send(error.details[0].message);
-
+router.post('/', [auth, validate(validator)], async (req, res) => {
   let genre = new Genre(req.body);
   genre = await genre.save();
 
   res.send(genre);
 });
 
-router.put('/:id', validateObjectId, async (req, res) => {
-  const { error } = validate(req.body);
-
-  if (error) {
-    return res.status(400).send(error.details[0].message);
-  }
-
+router.put('/:id', [validateObjectId, validate(validator)], async (req, res) => {
   const genre = await Genre.findByIdAndUpdate(
     { _id: req.params.id },
     { $set: req.body },
